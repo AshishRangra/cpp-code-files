@@ -1,0 +1,15 @@
+
+                #bODY{
+                    background-repeat:no-repeat;
+                    background-size: cover;
+                    border: 50px;
+                    margin: 100px;
+                    padding: 100px; 
+                }
+               .user{
+                   margin: 50px;
+                   padding: 50px;
+                   border: 50px;
+                   background-color: black;
+
+               }
